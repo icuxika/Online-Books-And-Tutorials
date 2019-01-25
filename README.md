@@ -3,3 +3,6 @@
 
 ## 计算机网络
 * [TCP/IP详解 卷1：协议](http://www.52im.net/topic-tcpipvol1.html)
+
+## Git
+* [Pro Git（中文版）](https://gitee.com/progit/)
